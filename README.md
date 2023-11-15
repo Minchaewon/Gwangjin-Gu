@@ -19,25 +19,35 @@
 
 ### 분석내용
 - 주정차 위반 내용 빈도분석
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/bfd0f4ff-5528-4fd4-a69a-d2d8e8ba5c76)
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/038a3849-3499-43c8-9325-4e930615bff7)
+
 - 시간대별 단속 건수 추출
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/be869420-5918-46e3-b2b9-230414aef644)
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/074dc156-2fea-46cb-b881-e99982266546)
+
 - 주정차 단속 장소
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/893b6adb-51c1-4854-9db8-f760ee9f5322)
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/1bf527f0-a4a6-4636-8b27-9032dde1a710)
+
 - 주정차 단속 건수
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/943a47ad-ea19-4f52-9ccf-eb5f3bdd317a)
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/50320b0c-7c71-4d76-9c28-69cf0fb595e4)
+
 - 단속동 별 위반 내용
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/59853088-23aa-4408-a453-9df971ae0088)
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/b18192dc-1eb5-4c4f-a4d8-93c5c1cb60ab)
+
 - 동별 자동차 등록대수
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/19518e0a-0a05-40fa-b4ef-2f03fbe6081a)
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/01e758eb-da34-4023-abbe-f0d98146542e)
+
 - 광진구 동별 인구수 분석
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/f6196052-3372-4900-8b8a-190ad86183c5)
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/64cca41c-3c23-47c7-85f3-d9bc159881a9)
+
 - 공영주차장 수 / 인구수 회귀분석
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/2126ef99-215f-4cd9-8f20-67d2dd4c51f0)
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/5fb2bfeb-b2a7-41df-9edb-4e2a575b828b)
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/1bbc309a-8747-4cf5-8805-f73b2ef2fc81)
+
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/ba9afccd-c8a9-4f3d-baf2-81982b9ec4fa)
+
 
 ### 해결방안 제시
-![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/a291acdb-c3fc-41b0-932d-6af1b447d3d7)
+![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/1aaad5fe-32b8-4b2e-8537-22387616b3b1)
+
 
 
 
