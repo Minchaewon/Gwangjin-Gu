@@ -1,5 +1,5 @@
 # Gwangjin-Gu
-광진구 빅데이터 활
+광진구 빅데이터 활용 공모전
 
 - ![image](https://github.com/GaGyeong-Kim/Gwangjin-Gu/assets/108977032/92b11148-1b18-4275-9d13-10f294f69612)
 
